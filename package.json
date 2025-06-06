@@ -16,7 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "node-addon-api": "^7.1.0",
-    "node-gyp-build": "^4.8.0"
+    "node-gyp-build": "^4.8.0",
+    "tree-sitter-cli": "^0.25.6"
   },
   "devDependencies": {
     "commit-and-tag-version": "^12.0.0",
@@ -40,10 +41,6 @@
     "url": "git+https://github.com/krixgris/tree-sitter-sql.git",
     "branch": "tsql_all_my_fixes"
   },
-  "bugs": {
-    "url": "https://github.com/derekstride/tree-sitter-sql/issues"
-  },
-  "homepage": "https://github.com/derekstride/tree-sitter-sql#readme",
   "commit-and-tag-version": {
     "skip": {
       "tag": true
