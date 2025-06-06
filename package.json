@@ -37,7 +37,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derekstride/tree-sitter-sql.git"
+    "url": "git+https://github.com/krixgris/tree-sitter-sql.git",
+    "branch": "tsql_all_my_fixes"
   },
   "bugs": {
     "url": "https://github.com/derekstride/tree-sitter-sql/issues"
